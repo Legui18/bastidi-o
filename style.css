@@ -1,0 +1,14 @@
+/* 
+primary: #F5F0BB
+secundary: #C4DFAA
+light: #90C8AC
+info: #73A9AD
+*/
+.text-light
+{
+    color:#90C8AC;
+}
+.bg-primary
+{
+    background-color: #F5F0BB;
+}
