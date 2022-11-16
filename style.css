@@ -12,3 +12,21 @@ info: #73A9AD
 {
     background-color: #F5F0BB;
 }
+.text-center{
+    text-align: center;
+}
+.text-secondary{
+    color:#C4DFAA;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: rgb(38, 240, 240);
+}
+.text-primary{
+    color: #F5F0BB;
+}
+.text-while{
+    color: white;
+}
